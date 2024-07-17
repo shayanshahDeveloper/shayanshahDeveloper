@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML , CSS , JAVASCRIPT**
 
-- 📫 How to reach me **shahaankhan138@gmail.com**
+- 📫 How to reach me **shayanshahdev@gmail.com**
 
 - ⚡ Fun fact **I Think Im Funny😂**
 
