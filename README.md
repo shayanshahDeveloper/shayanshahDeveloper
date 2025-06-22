@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayanshahdeveloper&show_icons=true&locale=en" alt="shayanshahdeveloper" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shayanshahdeveloper&" alt="shayanshahdeveloper" /></p>
+[<img src="https://github.com/user-attachments/assets/86fc1b36-ccf0-4300-99a2-cb4a31d73a8b" width="150" alt="Buy Me a Coffee">](https://buymeacoffee.com/shayanshahdev)
