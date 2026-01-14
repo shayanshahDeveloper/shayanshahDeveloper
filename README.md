@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://shayandevjobs.blogspot.com/](https://shayandevjobs.blogspot.com/)
 
-- 💬 Ask me about **HTML , CSS , JAVASCRIPT**
+- 💬 Ask me about **REACT , NODE , JAVASCRIPT EXPRESS MONGODB PHP SQL **
 
 - 📫 How to reach me **shayanshahdev@gmail.com**
 
