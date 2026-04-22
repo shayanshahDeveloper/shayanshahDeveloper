@@ -1,34 +1,186 @@
-<h1 align="center">Hi 👋, I'm Shayan Shah</h1>
-<h3 align="center">A MERN Stack Developer from Pakistan</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ███████╗██╗  ██╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗        ║
+║   ██╔════╝██║  ██║██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║        ║
+║   ███████╗███████║███████║ ╚████╔╝ ███████║██╔██╗ ██║        ║
+║   ╚════██║██╔══██║██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║        ║
+║   ███████║██║  ██║██║  ██║   ██║   ██║  ██║██║ ╚████║        ║
+║   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝        ║
+║                                                              ║
+║                   MERN STACK DEVELOPER                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shayanshahdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="shayanshahdeveloper" /> </p>
+<img src="https://komarev.com/ghpvc/?username=shayanshahdeveloper&label=%F0%9F%94%A5+PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-- 🌱 I’m currently learning **Frameworks and Courses etc**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shayan-shah-b31439296/](https://www.linkedin.com/in/shayan-shah-b31439296/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Shayan+Shah;MERN+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Building+Scalable+Web+Apps;Open+to+Collaborations+%26+Freelance+Work)](https://git.io/typing-svg)
 
-- 📝 I regularly write articles on [https://shayandevjobs.blogspot.com/](https://shayandevjobs.blogspot.com/)
+</div>
 
-- 💬 Ask me about **REACT , NODE , JAVASCRIPT EXPRESS MONGODB PHP SQL **
+---
 
-- 📫 How to reach me **shayanshahdev@gmail.com**
+### 🌟 About Me
 
-- ⚡ Fun fact **I Think Im Funny😂**
+<table width="100%">
+  <tr>
+    <td width="55%" valign="middle">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shayan-shah-b31439296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan-shah-b31439296" height="30" width="40" /></a>
-<a href="https://instagram.com/syed_shanie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed_shanie" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bloggeravenue2691" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bloggeravenue2691" height="30" width="40" /></a>
+- 🔭 **Currently:** Building advanced MERN stack applications
+- 🌱 **Learning:** Next.js 14, TypeScript, TailwindCSS
+- 👯 **Looking to collaborate:** Open Source MERN projects
+- 💬 **Ask me about:** React, Node.js, MongoDB, Express
+- 📫 **Reach me:** `shayanshahdev@gmail.com`
+- 🌍 **Location:** Pakistan 🇵🇰
+- ⚡ **Fun fact:** I write code faster than I type messages 😄
+
+    </td>
+    <td align="center" width="45%" valign="middle">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Technology Arsenal
+
+<div align="center">
+
+#### 🎯 MERN Core
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+#### 🎨 Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shayanshahdeveloper&show_icons=true&locale=en&layout=compact" alt="shayanshahdeveloper" /></p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayanshahdeveloper&show_icons=true&locale=en" alt="shayanshahdeveloper" /></p>
+#### ⚙️ Backend & Tools
 
-[<img src="https://github.com/user-attachments/assets/86fc1b36-ccf0-4300-99a2-cb4a31d73a8b" width="150" alt="Buy Me a Coffee">](https://buymeacoffee.com/shayanshahdev)
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shayanshahdeveloper&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=ffffff" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanshahdeveloper&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=ffffff" alt="Top Languages" />
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com/?user=shayanshahdeveloper&theme=radical&hide_border=true&background=0d1117&stroke=00ff9d&ring=00ff9d&fire=ff6b6b&currStreakNum=00ff9d&sideNums=00ff9d&currStreakLabel=00ff9d&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shayanshahdeveloper&theme=radical" alt="Profile Summary" />
+
+</div>
+
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/shayan-shah-b31439296" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/syed_shanie" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/bloggeravenue2691" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:shayanshahdev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://shayandevjobs.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🎯 Current Mission
+
+<div align="center">
+
+| | Goal |
+|:---:|:---|
+| 🎯 | **2025 Goal:** Contribute to 50+ Open Source Projects |
+| 📚 | **Learning Path:** Master Next.js 14 & Server Components |
+| 🚀 | **Current Build:** Full Stack E-commerce Platform |
+| 💡 | **Focus:** TypeScript & Clean Architecture Patterns |
+
+</div>
+
+---
+
+### 📝 Blog & Content
+
+<p align="center">
+  <i>✍️ I regularly write about MERN stack, JavaScript, and web development</i>
+  <br/><br/>
+  <a href="https://shayandevjobs.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%96_VISIT_MY_BLOG-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ☕ Support My Work
+
+<div align="center">
+
+<a href="https://buymeacoffee.com/shayanshahdev" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 *"Code. Debug. Learn. Repeat."* 💻
+
+<br/>
+
+**⭐️ If you like what you see, star my repositories! ⭐️**
+
+<br/>
+
+<sub><b>Made with ❤️ by Shayan Shah</b> | MERN Stack Developer | Pakistan 🇵🇰</sub>
+
+<br/>
+
+<sub><i>© 2026 | Open to collaborations & freelance work</i></sub>
+
+</div>
