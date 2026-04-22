@@ -106,27 +106,6 @@
 
 ---
 
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/shayan-shah-b31439296" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/syed_shanie" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/c/bloggeravenue2691" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:shayanshahdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://shayandevjobs.blogspot.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>
-</p>
-
----
 
 ### 🎯 Current Mission
 
@@ -151,35 +130,37 @@
   <a href="https://shayandevjobs.blogspot.com/" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%93%96_VISIT_MY_BLOG-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
+    <a href="https://buymeacoffee.com/shayanshahdev" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
 </p>
 
 ---
 
-### ☕ Support My Work
 
-<div align="center">
+### 🤝 Connect With Me
 
-<a href="https://buymeacoffee.com/shayanshahdev" target="_blank">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/shayan-shah-b31439296" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/syed_shanie" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/bloggeravenue2691" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:shayanshahdev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### 💻 *"Code. Debug. Learn. Repeat."* 💻
-
-<br/>
-
-**⭐️ If you like what you see, star my repositories! ⭐️**
-
-<br/>
-
-<sub><b>Made with ❤️ by Shayan Shah</b> | MERN Stack Developer | Pakistan 🇵🇰</sub>
-
-<br/>
+### *"Code. Debug. Learn. Repeat."* 
 
 <sub><i>© 2026 | Open to collaborations & freelance work</i></sub>
 
